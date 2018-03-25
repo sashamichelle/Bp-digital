@@ -27,3 +27,6 @@ https://docs.google.com/document/d/16Yyr6EHJ41VWK9IHLxPDF_fgMMiKg3CSIKxiGsseTf8/
 
 
 *Mi prototipo con interacción, esta diseñado en versión móvil:* https://marvelapp.com/14c0j646/screen/39652271
+
+*También se puede acceder al proyecto en su totalidad en:*
+https://drive.google.com/open?id=1bhyYsAN9CKETedvdmAA-6rGLgfnp3b9k
