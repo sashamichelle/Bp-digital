@@ -1,5 +1,8 @@
 *Proyecto “Bp Digital”*
 
+![bp logo](https://user-images.githubusercontent.com/32277143/38053218-df89f4c2-32a9-11e8-8965-3802d47ecd71.PNG)
+
+
 *Se nos planteo el desafío de crear o mejorar la experiencia ya existente de una aplicación o servicio, identificar principales problemáticas y optimizarlos.*
 
 *Para esto planifiqué mis tiempos en dos semanas para el desarrollo del proyecto.*
