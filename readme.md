@@ -1,4 +1,4 @@
-#Proyecto "Bp Digital"#
+#Proyecto Bp Digital#
 
 ![bp logo](https://user-images.githubusercontent.com/32277143/38053218-df89f4c2-32a9-11e8-8965-3802d47ecd71.PNG)
 
